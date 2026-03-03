@@ -1,4 +1,4 @@
-# Gallagher-Driver
+# Gallagher-Driver / GAL.SYS
 # IN PROGRESS!
 
 Kernel memory read
